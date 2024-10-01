@@ -159,3 +159,12 @@ section {
     background: #1d002c;
     color: #12f7ff;
 }
+
+/* products section */
+.para{
+    padding: 25px 10%;
+}
+
+.para h2{
+    font-size: 2.5rem;
+}
