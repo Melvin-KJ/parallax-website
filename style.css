@@ -108,6 +108,9 @@ section {
 }
 
 /* about section */
+#desert-moon{
+  mix-blend-mode: screen;
+}
 
 .about {
   position: relative;
@@ -168,3 +171,4 @@ section {
 .para h2{
     font-size: 2.5rem;
 }
+
